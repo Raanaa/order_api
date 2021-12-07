@@ -7,17 +7,17 @@ Requirements:
 Write an API for order app with the following: 
 
 
-•Sign up 
+            •Sign up 
 
-•Sign in 
+            •Sign in 
 
-•Create order 
+            •Create order 
 
-•Get user orders 
+            •Get user orders 
 
-•Accept/ reject 
+            •Accept/ reject 
 
-orderHint: please use JWT authentication. 
+            orderHint: please use JWT authentication. 
 
 
 Objectives. 
